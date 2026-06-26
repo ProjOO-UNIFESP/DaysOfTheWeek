@@ -5,8 +5,7 @@ execução de uma ação a uma estratégia específica daquele dia, aplicando os
 padrões de projeto **Strategy** e **Null Object**.
 
 > Disciplina: Projeto Orientado a Objetos — Unifesp (2026/1).
-> O código (classes, métodos, comentários) está em inglês; as mensagens
-> exibidas ao usuário estão em português, conforme o exemplo do enunciado.
+
 
 ## Funcionalidades
 
