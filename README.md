@@ -135,7 +135,7 @@ prioridade `BAIXA`). O `StrategySelector` usa essa instância como valor padrão
 ou sem estratégia associada são tratados sem ramificações condicionais e sem
 risco de `NullPointerException`.
 
-## Autores
+## Autor
 
-- _(preencher nome — RA)_
-- _(preencher nome — RA)_
+- _(Felipe Bagnatori Rolim — RA: 133612)_
+
